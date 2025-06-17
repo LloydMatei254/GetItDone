@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Get It Done</string>
+    <string name="dialog_add_task_title_hint">New task</string>
+    <string name="dialog_add_task_details_hint">Add details</string>
+    <string name="dialog_add_task_details_button">Add details</string>
+    <string name="dialog_add_task_star_button">Star task</string>
+    <string name="dialog_add_task_save_button">Save</string>
+    <string name="add_new_list_button_text">Add new list</string>
+    <string name="add_new_list_dialog_title">add_new_list_dialog_title</string>
+    <string name="create_button_text">create_button_text</string>
+    <string name="cancel_button_text">cancel_button_text</string>
+    <string name="add_new_list_dialog_positive_button">add_new_list_dialog_positive_button</string>
+    <string name="add_new_list_dialog_negative_button">add_new_list_dialog_negative_button</string>
+    <string name="add_new_list_button_title">Add new list</string>
+    <string name="create_text">Create</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="add_task_list_field_hint">List Name</string>
+</resources>
